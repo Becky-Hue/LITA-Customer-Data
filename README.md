@@ -10,15 +10,11 @@ The dataset contains 33787 records of customer subscription information, includi
 ### Summary Statistics
 
 - Total Revenue: Approximately $37M
-
-- 
 - Average Revenue: $1,999
 - Total Subscriptions: 33,787 total subscribers
 - Active Subscriptions: 18,612
 - Cancelled Subscriptions: 15,175
 - Subscription Duration (average): 365.35 days
-
-
 
 
 ------------------
