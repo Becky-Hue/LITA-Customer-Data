@@ -18,7 +18,8 @@ The dataset contains 33787 records of customer subscription information, includi
 - Cancelled Subscriptions: 15,175
 - Subscription Duration (average): 365.35 days
 
-- <img width="211" alt="github cus 1" src="https://github.com/user-attachments/assets/f0864861-0950-4f98-af2d-acd9a0ed0c83">
+
+
 
 ------------------
 
