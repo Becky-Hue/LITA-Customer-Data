@@ -1,51 +1,38 @@
 # LITA-Customer-Data
 
-*Dataset Analysis Report*
+## Dataset Analysis Report
 
-*Overview*
+### Overview
 
 The dataset contains 33787 records of customer subscription information, including cancelled status, customer ID, customer name, region, revenue, subscription duration, subscription end date, subscription start date, and subscription type.
+------------
 
-*Summary Statistics*
+### Summary Statistics
 
 - Total Revenue: Approximately $37M
+
+- 
 - Average Revenue: $1,999
 - Total Subscriptions: 33,787 total subscribers
 - Active Subscriptions: 18,612
 - Cancelled Subscriptions: 15,175
 - Subscription Duration (average): 365.35 days
 
+- <img width="211" alt="github cus 1" src="https://github.com/user-attachments/assets/3e56f242-b37c-4e7a-bc5d-aa8c8886ebce">
+------------------
+
 *Regional Analysis*
 
 | Region | Total Revenue | Active Subscriptions | Cancelled Subscriptions |
 | --- | --- | --- | --- |
-| [Region 1] | $ [insert amount] | [insert number] | [insert number] |
-| [Region 2] | $ [insert amount] | [insert number] | [insert number] |
-| ... | ... | ... | ... |
+| East | $ 16,959 | 8488 | NIL |
+| South | $ 16,899| 3366 | 5067 |
+| West | $ 16,864| 3382 | 5064 |
+|North| $ 16,818 | 3376 | 5044 |
 
-*Subscription Type Analysis*
 
-| Subscription Type | Total Revenue | Active Subscriptions | Cancelled Subscriptions |
-| --- | --- | --- | --- |
-| [Type 1] | $ [insert amount] | [insert number] | [insert number] |
-| [Type 2] | $ [insert amount] | [insert number] | [insert number] |
-| ... | ... | ... | ... |
 
-*Customer Analysis*
 
-- Top 5 Customers by Revenue:
-    1. [Customer 1] - $ [insert amount]
-    2. [Customer 2] - $ [insert amount]
-    3. [Customer 3] - $ [insert amount]
-    4. [Customer 4] - $ [insert amount]
-    5. [Customer 5] - $ [insert amount]
-
-*Cancellation Analysis*
-
-- Reasons for Cancellation (top 3):
-    1. [Reason 1] - [insert percentage]
-    2. [Reason 2] - [insert percentage]
-    3. [Reason 3] - [insert percentage]
 
 *Recommendations*
 
